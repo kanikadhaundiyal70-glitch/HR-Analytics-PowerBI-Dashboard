@@ -1,3 +1,4 @@
+![hr_Dashboard](https://github.com/kanikadhaundiyal70-glitch/HR-Analytics-PowerBI-Dashboard/blob/main/hr_Dashboard.png)
 # HR Analytics Dashboard
 
 ### 🎯 Project Objective
